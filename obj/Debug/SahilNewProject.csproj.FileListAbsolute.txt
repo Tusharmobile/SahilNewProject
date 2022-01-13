@@ -1,0 +1,8 @@
+D:\shitrteproject\SahilNewProject\SahilNewProject\bin\Debug\SahilNewProject.exe.config
+D:\shitrteproject\SahilNewProject\SahilNewProject\bin\Debug\SahilNewProject.exe
+D:\shitrteproject\SahilNewProject\SahilNewProject\bin\Debug\SahilNewProject.pdb
+D:\shitrteproject\SahilNewProject\SahilNewProject\obj\Debug\SahilNewProject.csproj.AssemblyReference.cache
+D:\shitrteproject\SahilNewProject\SahilNewProject\obj\Debug\SahilNewProject.csproj.SuggestedBindingRedirects.cache
+D:\shitrteproject\SahilNewProject\SahilNewProject\obj\Debug\SahilNewProject.csproj.CoreCompileInputs.cache
+D:\shitrteproject\SahilNewProject\SahilNewProject\obj\Debug\SahilNewProject.exe
+D:\shitrteproject\SahilNewProject\SahilNewProject\obj\Debug\SahilNewProject.pdb
